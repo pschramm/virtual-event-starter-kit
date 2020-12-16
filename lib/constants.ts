@@ -65,7 +65,7 @@ export const NAVIGATION = [
     route: '/speakers'
   },
   {
-    name: 'Providers',
+    name: 'Insurance Providers',
     route: '/expo'
   },
   {
